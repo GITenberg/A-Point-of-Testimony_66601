@@ -1,0 +1,35 @@
+_repo: A-Point-of-Testimony_66601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Carolyn_Wells
+    - http://www.gutenberg.org/ebooks/author/50279
+description: ''
+gutenberg_issued: '2021-10-23'
+identifiers:
+  gutenberg: '66601'
+language: en
+pgterms:marc905: 20210821155250wells
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Ridgway Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Detectives -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- GITenberg
+title: A Point of Testimony
+url: http://www.gutenberg.org/ebooks/66601
